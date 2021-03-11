@@ -1,0 +1,6 @@
+1111111111;mars;alexis;2020-08-08
+phone2;pw;egzon;2020-08-13
+9728320258;alex;alex;2020-08-08
+phonenum;pw;zachy;2020-08-08
+phone;pw;username;2020-08-08
+hi;hi;hi;2020-08-08
